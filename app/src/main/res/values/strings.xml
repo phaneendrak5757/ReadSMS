@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name"> Fincare MEL Register</string>
+    <string name="account_type">com.fincare.Mel_read_sms</string>
+</resources>
